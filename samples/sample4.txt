@@ -1,0 +1,4 @@
+Mon: Kevin shipped security patch for session fixation vulnerability (SEC-102)
+Wed: Risk: vendor API rate limits could affect batch sync jobs on Thursday
+Thu: Blocked: waiting on client feedback for draft schema changes
+Fri: Next week: Kevin will finish webhook retry queue implementation

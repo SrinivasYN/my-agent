@@ -1,0 +1,5 @@
+Mon: Migration of customer records failed midway with database schema mismatch errors
+Tue: A critical performance issue was discovered in the checkout service causing cart drops
+Wed: Risk: deployment may slip past the scheduled release window due to unaddressed bugs
+Thu: Blocked: waiting on third-party API approval to proceed with production rollout
+Fri: Next week: plan to fix whatever is broken and re-attempt deployment
